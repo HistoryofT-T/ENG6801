@@ -1,4 +1,4 @@
-# ENG 6800 - Introduction to Text and Technology (3 credits) Spring 2020 Syllabus
+# ENG 6800 - Introduction to Texts and Technology (3 credits) Spring 2020 Syllabus
 ### Course Information
 * **Time:** Wednesdays 6:00-8:50pm        
 * **Place:** TCH 116                                               
